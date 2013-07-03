@@ -1,0 +1,10 @@
+Coke
+1
+Carb 5%
+Drink
+20
+Sprite
+1
+Sugar 2%
+Drink
+35
